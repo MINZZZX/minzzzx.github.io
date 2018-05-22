@@ -114,10 +114,10 @@ header h1 {
 	#about {
 		padding-top: 10%;
 		line-height: 1.33em;
-		-webkit-hyphens: auto;
+		/* -webkit-hyphens: auto;
 		-moz-hyphens: auto;
 		-ms-hyphens: auto;
-		hyphens: auto;
+		hyphens: auto; */
 	}
 
 	#about .tag {
