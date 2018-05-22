@@ -112,8 +112,8 @@
 	/* -------------------ABOUT ME PAGE----------------------- */
 
 		#about {
-			margin: 30px;
-			padding: 30px;
+			margin-top: auto: 30px;
+			padding-top: 30px;
 			line-height: 1.33em;
 			-webkit-hyphens: auto;
 			-moz-hyphens: auto;
